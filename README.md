@@ -235,10 +235,10 @@ public class DisplayActivity extends AppCompatActivity {
 ```
 
 # OUTPUT:
+![image](https://github.com/selva258963/MAD-workshop-1/assets/120718823/8cc7a5af-beea-43b5-837f-f76db0d59541)
+![image](https://github.com/selva258963/MAD-workshop-1/assets/120718823/4c066de9-6145-4605-9baf-6959e47fa84d)
 
-![Screenshot 2024-03-23 112232](https://github.com/selva258963/MAD-workshop-1/assets/121961701/645003f8-7e96-4924-8295-2cb8a30d71c2)
-![Screenshot 2024-03-23 112209](https://github.com/selva258963/MAD-workshop-1/assets/121961701/4f6d5fc9-880d-4a7a-a431-6ebb193a0665)
-![Screenshot 2024-03-23 112149](https://github.com/selva258963/MAD-workshop-1/assets/121961701/7b54b83e-4c35-4a4a-acdb-439d150c3902)
-![Screenshot (64)](https://github.com/selva258963/MAD-workshop-1/assets/121961701/7f9e18c7-9cf0-4217-a5b6-770e8bcedea1)
-![Screenshot 2024-03-23 112243](https://github.com/selva258963/MAD-workshop-1/assets/121961701/a175290f-97cf-4f15-83c7-01fd24e17ba0)
+
+
+
 
